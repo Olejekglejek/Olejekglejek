@@ -11,13 +11,8 @@
 
 - :round_pushpin: **London** Based
 - :cyclone: **Junior DevOp Engineer** / **Web Developer**
-- :trophy: **1st Class** in Computing with Games Development
+- :trophy: **1st Class** in Electrical Engineering and IT with Software Networks in Telecomunication
 - :zap: **Fun Fact** : I am very good at managing my finances... until I see a brand new guitar shining in front of my eyes. 🎸 🎶 🎹 🎵 🎼
-- 🔭 I’m currently working on ... my DevOps skills.
-- 🌱 I’m currently learning ... AWS, Ansible, Jenkins, Terraform, Docker, Kubernetes, Django, Flask.
-- 👯 I’m looking to collaborate on ... anything.
-- 🤔 I’m looking for help with ... everything.
-- 💬 Ask me about ... anything.
 
 &nbsp;
 
