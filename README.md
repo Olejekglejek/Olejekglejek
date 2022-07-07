@@ -1,4 +1,4 @@
-## Hi, I am Oleg Negruta a Junior DevOps Engineer / Web Developer 👋
+## Hi, I am Oleg Negruta a Junior Platform Engineer 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Olejekglejek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-negruta/)
@@ -10,8 +10,8 @@
 ### **Personal Information:**
 
 - :round_pushpin: **London** Based
-- :cyclone: **Junior DevOp Engineer** / **Web Developer**
-- :trophy: **1st Class** in Electrical Engineering and IT with Software Networks in Telecomunication
+- :cyclone: **Junior Platform Engineer**
+- :trophy: **1st Class** in Electrical Engineering and IT with Software Networks in Telecommunication
 - :zap: **Fun Fact** : I am very good at managing my finances... until I see a brand new guitar shining in front of my eyes. 🎸 🎶 🎹 🎵 🎼
 
 &nbsp;
