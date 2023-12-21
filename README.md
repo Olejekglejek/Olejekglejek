@@ -1,4 +1,4 @@
-## Hi, I am Oleg Negruță - Platform Engineer 👋
+## Hi, I am Oleg Negruta - Platform Engineer 👋
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Olejekglejek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oleg-negruta/)
